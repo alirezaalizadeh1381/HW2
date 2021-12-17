@@ -1,0 +1,3 @@
+first get a number from the client
+if the number divides its last number , it is prime
+else it is not prime

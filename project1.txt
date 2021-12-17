@@ -1,0 +1,3 @@
+first we should get a number from client
+if the number divides 2 it is even
+else it is odd
